@@ -1,0 +1,16 @@
+CP001
+Bill Gates
+Windows
+460500
+CP002
+Marco Polo
+Linux
+500002
+CP003
+Maria Ninza
+Computer
+4500
+CP004
+Michael John
+Program
+3752000

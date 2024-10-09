@@ -1,0 +1,8 @@
+D:\PROGRAMMING\2023\Summer\420-AP1-AS\AtmMachine\AtmMachine\bin\Debug\AtmMachine.exe.config
+D:\PROGRAMMING\2023\Summer\420-AP1-AS\AtmMachine\AtmMachine\bin\Debug\AtmMachine.exe
+D:\PROGRAMMING\2023\Summer\420-AP1-AS\AtmMachine\AtmMachine\bin\Debug\AtmMachine.pdb
+D:\PROGRAMMING\2023\Summer\420-AP1-AS\AtmMachine\AtmMachine\obj\Debug\AtmMachine.csproj.AssemblyReference.cache
+D:\PROGRAMMING\2023\Summer\420-AP1-AS\AtmMachine\AtmMachine\obj\Debug\AtmMachine.csproj.SuggestedBindingRedirects.cache
+D:\PROGRAMMING\2023\Summer\420-AP1-AS\AtmMachine\AtmMachine\obj\Debug\AtmMachine.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\2023\Summer\420-AP1-AS\AtmMachine\AtmMachine\obj\Debug\AtmMachine.exe
+D:\PROGRAMMING\2023\Summer\420-AP1-AS\AtmMachine\AtmMachine\obj\Debug\AtmMachine.pdb
